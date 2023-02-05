@@ -1,0 +1,5 @@
+C:\Users\heman\OneDrive\Desktop\Creating file>python -m venv lr1
+
+C:\Users\heman\OneDrive\Desktop\Creating file>lr1\Scripts\activate.bat
+
+(lr1) C:\Users\heman\OneDrive\Desktop\Creating file>pip list
